@@ -128,7 +128,7 @@ function App() {
     mensagem += `*Total do pedido: R$ ${total.toFixed(2)}*`;
     
     // Número de telefone da loja (substitua pelo número real)
-    const numeroWhatsApp = '5511999999999';
+    const numeroWhatsApp = '555180506578';
     
     // Codifica a mensagem para URL
     const mensagemCodificada = encodeURIComponent(mensagem);
